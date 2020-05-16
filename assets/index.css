@@ -1,0 +1,7 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1549396563-73701bbb8f20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+}
+
+.carousel-inner {
+  max-width: 100%;
+}
